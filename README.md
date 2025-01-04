@@ -1,10 +1,14 @@
-## Tip Calculator
-Is an Android app to help you to calculate the amount of tip and split the table bill. 
+##O que foi feito?
+ Um aplicativo Android para ajudar você a calcular o valor da gorjeta e dividir a conta da mesa.
+
 
 ## Screenshots
-<img src="https://github.com/roquebuarquejr/TipsCalculator/assets/11612508/834f273e-34d8-43bd-bf65-3a7aca73f07e" width="260"/>
-<img src="https://github.com/roquebuarquejr/TipsCalculator/assets/11612508/1caa392d-c0ba-4b40-87f1-b8493c35d88b" width="260"/>
-<img src="https://github.com/roquebuarquejr/TipsCalculator/assets/11612508/8d2bb120-4e77-4503-bd7e-29e5eb9a847d" width="260"/>
+<img src="https://github.com/user-attachments/assets/16eb8982-8159-440a-9ed4-06dd453155df"
+width = 260/>
+
+<img src="https://github.com/user-attachments/assets/b82e5867-0b62-451e-bf2d-5ad888579b12"
+width = 260/>
+
 
 ## Techs
 - Kotlin
@@ -12,3 +16,7 @@ Is an Android app to help you to calculate the amount of tip and split the table
 - ConstraintLayout
 - Navigation with Intents
 - Material3 themes and styles
+- UI components
+- TextView
+- Button
+- 
