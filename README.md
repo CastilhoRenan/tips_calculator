@@ -1,4 +1,4 @@
-##Tips Calculator
+Tips Calculator
  Um aplicativo Android para ajudar você a calcular o valor da gorjeta e dividir a conta da mesa.
 
 
